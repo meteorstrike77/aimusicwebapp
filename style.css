@@ -1,0 +1,30 @@
+
+.heading-button{
+    padding: 55px;
+    background-color: red;
+    width: 1900px;
+    box-shadow: 5px 5px 15px purple;
+    border: 1px solid purple;
+}
+.heading{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 60px;
+}
+.note{
+    font-size: 20px;
+    font-family: 'Josefin Sans', sans-serif;
+    color: purple;
+
+}
+.song-button{
+    background-color: purple;
+    border: 1px solid purple;
+    box-shadow: 5px 5px 15px red;
+    padding: 13px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+canvas{
+    border: 5px solid purple;
+    box-shadow: 5px 5px 15px purple;
+    background-color: white;
+}
